@@ -1,0 +1,6 @@
+{
+  "name": "The Bean House",
+  "description": "Premium contemporary Indian café & coffee house in Nahan, Himachal Pradesh. Good Coffee, Good Mood. Artisanal coffees, authentic spiced chai, fresh bakery, and comfort food.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
